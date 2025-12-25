@@ -2,6 +2,7 @@
   "years": [
     {
       "id": "2568",
+      "label": "ปีการศึกษา 2568 (TGAT/TPAT)",
       "groups": [
         {
           "name": "GPAX / GPA (เกรดเฉลี่ย)",
@@ -35,6 +36,7 @@
     },
     {
       "id": "2567",
+      "label": "ปีการศึกษา 2567 (TGAT/TPAT)",
       "groups": [
         {
           "name": "GPAX / GPA (เกรดเฉลี่ย)",
@@ -68,6 +70,7 @@
     },
     {
       "id": "2566",
+      "label": "ปีการศึกษา 2566 (TGAT/TPAT)",
       "groups": [
         {
           "name": "GPAX / GPA (เกรดเฉลี่ย)",
@@ -101,6 +104,7 @@
     },
     {
       "id": "2565",
+      "label": "ปีการศึกษา 2565 (GAT/PAT เดิม)",
       "groups": [
         {
           "name": "GPAX / GPA",
@@ -128,6 +132,7 @@
         },
         {
       "id": "2564",
+      "label": ""ปีการศึกษา 2564 (GAT/PAT เดิม)"",
       "groups": [
         {
           "name": "GPAX / GPA",

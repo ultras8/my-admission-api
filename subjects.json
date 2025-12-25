@@ -1,0 +1,109 @@
+{
+  "years": [
+    {
+      "id": "2568",
+      "label": "ปีการศึกษา 2568 (TGAT/TPAT)",
+      "groups": [
+        {
+          "name": "GPAX",
+          "color": "#FD7A6C",
+          "subjects": ["เกรดเฉลี่ยสะสม (6 เทอม)"]
+        },
+        {
+          "name": "TGAT",
+          "color": "#FD7A6C",
+          "subjects": ["TGAT1 การสื่อสารภาษาอังกฤษ", "TGAT2 การคิดอย่างมีเหตุผล", "TGAT3 สมรรถนะการทำงาน"]
+        },
+        {
+          "name": "TPAT",
+          "color": "#FD7A6C",
+          "subjects": ["TPAT1 กสพท (ความถนัดแพทย์)", "TPAT3 ความถนัดวิศวกรรม/วิทยา"]
+        }
+      ]
+    },
+    {
+      "id": "2567",
+      "label": "ปีการศึกษา 2568 (TGAT/TPAT)",
+      "groups": [
+        {
+          "name": "GPAX",
+          "color": "#FD7A6C",
+          "subjects": ["เกรดเฉลี่ยสะสม (6 เทอม)"]
+        },
+        {
+          "name": "TGAT",
+          "color": "#FD7A6C",
+          "subjects": ["TGAT1 การสื่อสารภาษาอังกฤษ", "TGAT2 การคิดอย่างมีเหตุผล", "TGAT3 สมรรถนะการทำงาน"]
+        },
+        {
+          "name": "TPAT",
+          "color": "#FD7A6C",
+          "subjects": ["TPAT1 กสพท (ความถนัดแพทย์)", "TPAT3 ความถนัดวิศวกรรม/วิทยา"]
+        }
+      ]
+    },
+    {
+      "id": "2566",
+      "label": "ปีการศึกษา 2568 (TGAT/TPAT)",
+      "groups": [
+        {
+          "name": "GPAX",
+          "color": "#FD7A6C",
+          "subjects": ["เกรดเฉลี่ยสะสม (6 เทอม)"]
+        },
+        {
+          "name": "TGAT",
+          "color": "#FD7A6C",
+          "subjects": ["TGAT1 การสื่อสารภาษาอังกฤษ", "TGAT2 การคิดอย่างมีเหตุผล", "TGAT3 สมรรถนะการทำงาน"]
+        },
+        {
+          "name": "TPAT",
+          "color": "#FD7A6C",
+          "subjects": ["TPAT1 กสพท (ความถนัดแพทย์)", "TPAT3 ความถนัดวิศวกรรม/วิทยา"]
+        }
+      ]
+    },
+    {
+      "id": "2565",
+      "label": "ปีการศึกษา 2568 (TGAT/TPAT)",
+      "groups": [
+        {
+          "name": "GPAX",
+          "color": "#FD7A6C",
+          "subjects": ["เกรดเฉลี่ยสะสม (6 เทอม)"]
+        },
+        {
+          "name": "GAT",
+          "color": "#FD7A6C",
+          "subjects": ["GAT ส่วนที่ 1 (เชื่อมโยง)", "GAT ส่วนที่ 2 (ภาษาอังกฤษ)"]
+        },
+        {
+          "name": "PAT",
+          "color": "#FD7A6C",
+          "subjects": ["PAT 1 (คณิตศาสตร์)", "PAT 2 (วิทยาศาสตร์)", "PAT 3 (วิศวกรรมศาสตร์)"]
+        }
+      ]
+    },
+    {
+      "id": "2564",
+      "label": "ปีการศึกษา 2565 (GAT/PAT เดิม)",
+      "groups": [
+        {
+          "name": "GPAX",
+          "color": "#FD7A6C",
+          "subjects": ["เกรดเฉลี่ยสะสม (6 เทอม)"]
+        },
+        {
+          "name": "GAT",
+          "color": "#FD7A6C",
+          "subjects": ["GAT ส่วนที่ 1 (เชื่อมโยง)", "GAT ส่วนที่ 2 (ภาษาอังกฤษ)"]
+        },
+        {
+          "name": "PAT",
+          "color": "#FD7A6C",
+          "subjects": ["PAT 1 (คณิตศาสตร์)", "PAT 2 (วิทยาศาสตร์)", "PAT 3 (วิศวกรรมศาสตร์)"]
+        }
+      ]
+    }
+  ]
+}
